@@ -1,0 +1,8 @@
+1) Write a program to find greatest common divisor (GCD) or highest common factor (HCF) of given two numbers.
+
+2) Take integer inputs from user until he/she presses q ( Ask to press q to quit after every integer input ). 
+Print average and product of all numbers.
+
+3) Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.
+
+4) Write a Python function that takes a number as a parameter and check the number is prime or not. 
