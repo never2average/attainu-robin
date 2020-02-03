@@ -1,0 +1,12 @@
+Coding challenges
+1) Write a Python program to iterate over dictionaries using for loops.
+2) Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
+
+
+Assignments
+
+1)Write a Python program to sort (ascending and descending) a dictionary by value. [use sorted()]
+Write a Python program to combine two dictionary adding values for common keys.
+d1 = {'a': 100, 'b': 200, 'c':300}
+d2 = {'a': 300, 'b': 200, 'd':400}
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
