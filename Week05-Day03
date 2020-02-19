@@ -1,0 +1,19 @@
+CC:
+https://www.geeksforgeeks.org/counting-inversions/  
+
+Assignment:
+https://www.geeksforgeeks.org/find-number-pairs-xy-yx/ 
+
+HW-Optional
+
+Encapsulation: It describes the idea of wrapping data and the methods that work on data within one unit. This puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data.
+Abstraction:  Abstraction is selecting data from a larger pool to show only the relevant details to the object. It helps to reduce programming complexity and effort.
+Inheritance: Inheritance is one of the core concepts of object-oriented programming (OOP) languages. It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
+getattr(obj, name[, default]) - gets the value of a specific attribute of the object. 
+__doc__()
+hasattr(obj, name) - returns true, false
+setattr(obj, name, value) - changes a particular attribute value of an object. 
+delattr(obj, name) - deletes  particular attribute value of an object. 
+
+
+
