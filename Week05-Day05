@@ -6,5 +6,5 @@ CC:
 
 Assignment:
 
-1) Merge Sort a doubly linked list
+1) Given 2 very very big numbers(10^1000) use doubly linked lists to perform operations on them(+,-,*,/).
 2) Reverse a Doubly linked list using recursion
