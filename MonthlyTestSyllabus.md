@@ -1,6 +1,6 @@
 ## Easy Topics:
 ___
-**2 questions (12 Marks Each)**
+**2 questions (10 Marks Each)**
 ___
 1) Strings
 2) Lists 
@@ -9,7 +9,7 @@ ___
 
 ## Medium Topics:
 ___
-**2 questions (15 Marks Each)**
+**2 questions (17 Marks Each)**
 ___
 
 1) Recursion
