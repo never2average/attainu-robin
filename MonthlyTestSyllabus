@@ -1,15 +1,17 @@
 Easy Topics:
-
-1) Lists and Dictionaries
-2) Strings and Patterns
-
+1) Strings
+2) Lists 
+3) Dictionaries
+4) Patterns
 
 Medium Topics:
 
 1) Recursion
-2) Searching & Sorting
+2) Searching
+3) Sorting
 
 Hard Topics:
 
-1) Stack and Queue
-2) Linked Lists
+1) Linked Lists
+2) Stacks
+3) Queue
