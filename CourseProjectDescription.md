@@ -8,3 +8,4 @@ https://docs.google.com/document/d/1jil3pDIU1mqRBxZ1gQ1gKaSdeSGJPAuyco8V7kKXeVk/
 
 # Project 3:
 **Level: Hard**<br>
+https://docs.google.com/document/d/1wBy2ALRszvoUGFrcF10-4982Fzc4dvXruLSmrl5y7F0/edit?usp=sharing
